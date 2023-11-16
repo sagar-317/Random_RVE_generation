@@ -1,3 +1,5 @@
+# This is not perfect and needed the text files to be changed. 
+# Some periodicity was not working
 import numpy as np
 import random as rand
 from math import sin, cos
